@@ -1,0 +1,28 @@
+{
+  "data": {
+    "cards": [
+      {},
+      {},
+      {
+        "card": {
+          "card": {
+            "gridElements": {
+              "infoWithStyle": {
+                "restaurants": [
+                  {
+                    "info": {
+                      "id": "1",
+                      "name": "Pizza Hub",
+                      "cuisines": ["Italian"],
+                      "avgRating": "4.2"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

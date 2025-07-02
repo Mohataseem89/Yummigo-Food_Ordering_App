@@ -1,0 +1,102 @@
+{
+    "id": "463943",
+    "name": "Foo",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/19/00a482e1-e81c-441e-b83d-25da6ef97aa2_463943.jpg",
+    "locality": "Bandra Kurla Complex",
+    "areaName": "Bandra Kurla Complex",
+    "costForTwo": "₹1000 for two",
+    "cuisines": [
+        "Asian",
+        "Chinese",
+        "Sushi"
+    ],
+    "avgRating": 4.6,
+    "parentId": "393646",
+    "avgRatingString": "4.6",
+    "totalRatingsString": "824",
+    "promoted": true,
+    "adTrackingId": "cid=3270f970-836b-43dc-88aa-1fc6ec3bd6db~p=0~adgrpid=3270f970-836b-43dc-88aa-1fc6ec3bd6db#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=463943~plpr=COLLECTION~eid=70453700-d55d-44f1-b64f-9c6313d31853~srvts=1750945349327~collid=80463",
+    "sla": {
+        "deliveryTime": 70,
+        "lastMileTravel": 6.3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "65-70 mins",
+        "lastMileTravelString": "6.3 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2025-06-26 23:30:00",
+        "opened": true
+    },
+    "badges": {
+        "imageBadges": [
+            {
+                "imageId": "Ratnesh_Badges/Rx_Awards_2025/Global%20Flavours.png",
+                "description": "Delivery!"
+            },
+            {
+                "imageId": "newg.png",
+                "description": "Gourmet"
+            }
+        ]
+    },
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "textBased": {},
+            "imageBased": {
+                "badgeObject": [
+                    {
+                        "attributes": {
+                            "imageId": "Ratnesh_Badges/Rx_Awards_2025/Global%20Flavours.png",
+                            "description": "Delivery!"
+                        }
+                    },
+                    {
+                        "attributes": {
+                            "description": "Gourmet",
+                            "imageId": "newg.png"
+                        }
+                    }
+                ]
+            },
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹75",
+        "logoCtx": {
+            "text": "BENEFITS"
+        }
+    },
+    "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {},
+        "commsStyling": {}
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+        "aggregatedRating": {
+            "rating": "4.4",
+            "ratingCount": "1.5K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+    "campaignId": "3270f970-836b-43dc-88aa-1fc6ec3bd6db"
+}
