@@ -6,7 +6,7 @@ Yummigo is a dynamic and modern food ordering web application that lets users br
 
 ## 🚀 Live Demo
 
-> Coming Soon...
+[Yummigo](https://yummigo-food.vercel.app/)
 
 ---
 
