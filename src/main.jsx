@@ -8,7 +8,7 @@ import Contact from "./components/Contact";
 import Error from "./components/Error";
 import Cart from "./components/Cart";
 import RestoMneu from "./components/RestoMenu";
-import Shimmer from "./components/shimmer";
+import Shimmer from "./components/Shimmer";
 import userContext from "./utils/UserContext";
 import { Provider } from "react-redux";
 // import { useState } from "react";
