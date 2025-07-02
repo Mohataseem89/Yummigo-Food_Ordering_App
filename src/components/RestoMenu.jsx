@@ -1,5 +1,5 @@
 import React from "react";
-import Shimmer from "./shimmer";
+import Shimmer from "./Shimmer";
 import { useParams } from "react-router-dom";
 import { useState } from "react";
 import useRestoMenu from "../utils/useRestoMenu";
