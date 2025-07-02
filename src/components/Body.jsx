@@ -1,7 +1,7 @@
 import React from "react";
 import RestoCard, { withPromotedBadge } from "./RestoCard";
 import { useState, useEffect, useContext } from "react";
-import Shimmer from "./shimmer";
+import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import useActiveStatus from "../utils/useActiveStatus";
 import UserContext from "../utils/UserContext";
