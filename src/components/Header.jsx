@@ -28,7 +28,7 @@ const Header = () => {
         <Link to={"/"}>
           <img
             className="h-12 w-12 lg:h-16 lg:w-16 cursor-pointer rounded-full ring-2 ring-orange-400 hover:ring-orange-500 transition-all duration-300 hover:scale-105"
-            src="/src/assets/logo.png"
+            src="/logo.png"
             alt="Yummigo Logo"
           />
         </Link>
