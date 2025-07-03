@@ -159,13 +159,13 @@ const Body = () => {
           <div className="flex items-center gap-3 sm:flex-row">
             <button
               onClick={handleTopRated}
-              className="px-6 py-3 bg-gray-800 text-gray-200 border border-gray-600 rounded-full hover:border-orange-500 hover:text-orange-400 transition-all duration-200 font-medium shadow-sm hover:shadow-md"
+              className="whitespace-nowrap items-center px-4 py-3 bg-gray-800 text-gray-200 border border-gray-600 rounded-full hover:border-orange-500 hover:text-orange-400 transition-all duration-200 font-medium shadow-sm hover:shadow-md"
             >
               ⭐ Top Rated (4.0+)
             </button>
             <button
               onClick={clearFilters}
-              className="px-6 py-3 bg-gray-800 text-gray-200 border border-gray-600 rounded-full hover:border-gray-500 transition-all duration-200 font-medium shadow-sm hover:shadow-md"
+              className="whitespace-nowrap items-center px-4 py-3 bg-gray-800 text-gray-200 border border-gray-600 rounded-full hover:border-gray-500 transition-all duration-200 font-medium shadow-sm hover:shadow-md"
             >
               🔄 Clear Filters
             </button>
