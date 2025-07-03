@@ -33,7 +33,7 @@ const Header = () => {
           />
         </Link>
         <Link to={"/"}>
-          <span className="ml-3 text-xl lg:text-2xl font-bold bg-gradient-to-r from-orange-500 to-red-500 bg-clip-text text-transparent hidden ">
+          <span className="ml-3 text-xl lg:text-2xl font-bold bg-gradient-to-r from-orange-500 to-red-500 bg-clip-text text-transparent hidden sm:block">
             Yummigo
           </span>
         </Link>
