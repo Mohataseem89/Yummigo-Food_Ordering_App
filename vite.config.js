@@ -8,6 +8,9 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   
   plugins: [
+     build: {
+    assetsDir: 'assets',
+  },
     react(),
     tailwindcss(),
   ],
