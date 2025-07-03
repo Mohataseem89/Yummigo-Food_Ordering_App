@@ -83,7 +83,7 @@ const Header = () => {
           </li>
         </ul>
       </div>
-      <h4 className="text-white">User: {loggedInuser}</h4>
+{/*       <h4 className="text-white">User: {loggedInuser}</h4> */}
 
       {/* Mobile Menu Button */}
       <div className="flex items-center">
