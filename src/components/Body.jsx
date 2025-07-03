@@ -156,7 +156,7 @@ const Body = () => {
     
       <div className="max-w-6xl mx-auto px-4 py-8">
         <div className="flex flex-wrap items-center justify-between gap-4 mb-8">
-          <div className="flex flex-wrap items-center gap-3">
+          <div className="flex flex-wrap items-center gap-3 sm:flex-row">
             <button
               onClick={handleTopRated}
               className="px-6 py-3 bg-gray-800 text-gray-200 border border-gray-600 rounded-full hover:border-orange-500 hover:text-orange-400 transition-all duration-200 font-medium shadow-sm hover:shadow-md"
