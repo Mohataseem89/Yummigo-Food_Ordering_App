@@ -14,7 +14,7 @@ export default defineConfig({
     assetsDir: 'assets',
     rollupOptions: {
       output: {
-        assetFileNames: 'assets/[logo]-[yum][.png]'
+        assetFileNames: 'assets/logo-abc123.png'
       }
     }
   }
