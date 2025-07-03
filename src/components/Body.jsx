@@ -54,13 +54,13 @@ const Body = () => {
 
   if (activeStatus === false) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-gray-50 dark:bg-gray-900">
-        <div className="text-center p-8 bg-white dark:bg-gray-800 rounded-2xl shadow-xl max-w-md mx-4">
+      <div className="min-h-screen flex items-center justify-center bg-gray-900">
+        <div className="text-center p-8 bg-white bg-gray-800 rounded-2xl shadow-xl max-w-md mx-4">
           <div className="text-6xl mb-4">📡</div>
-          <h1 className="text-2xl font-bold text-gray-800 dark:text-white mb-2">
+          <h1 className="text-2xl font-bold text-gray-800 mb-2">
             You're Offline
           </h1>
-          <p className="text-gray-600 dark:text-gray-300">
+          <p className="text-gray-600 ">
             Please check your internet connection and try again.
           </p>
           <button
@@ -98,7 +98,7 @@ const Body = () => {
   };
 
   return (
-    <div className="body min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-300">
+    <div className="body min-h-screen bg-gray-900 transition-colors duration-300">
     
       <div className="bg-gradient-to-r from-orange-500 via-red-500 to-pink-500 text-white py-16 px-4">
         <div className="max-w-6xl mx-auto text-center">
@@ -159,13 +159,13 @@ const Body = () => {
           <div className="flex flex-wrap items-center gap-3">
             <button
               onClick={handleTopRated}
-              className="px-6 py-3 bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-200 border border-gray-300 dark:border-gray-600 rounded-full hover:border-orange-500 hover:text-orange-500 dark:hover:text-orange-400 transition-all duration-200 font-medium shadow-sm hover:shadow-md"
+              className="px-6 py-3 bg-gray-800 text-gray-200 border border-gray-600 rounded-full hover:border-orange-500 hover:text-orange-400 transition-all duration-200 font-medium shadow-sm hover:shadow-md"
             >
               ⭐ Top Rated (4.0+)
             </button>
             <button
               onClick={clearFilters}
-              className="px-6 py-3 bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-200 border border-gray-300 dark:border-gray-600 rounded-full hover:border-gray-500 transition-all duration-200 font-medium shadow-sm hover:shadow-md"
+              className="px-6 py-3 bg-gray-800 text-gray-200 border border-gray-600 rounded-full hover:border-gray-500 transition-all duration-200 font-medium shadow-sm hover:shadow-md"
             >
               🔄 Clear Filters
             </button>
@@ -175,7 +175,7 @@ const Body = () => {
             </div> */}
           </div>
 
-          <div className="text-sm text-gray-600 dark:text-gray-400 font-medium">
+          <div className="text-sm text-gray-400 font-medium">
             {filteredResto.length} restaurants found
           </div>
         </div>
@@ -184,10 +184,10 @@ const Body = () => {
         {filteredResto.length === 0 ? (
           <div className="text-center py-16">
             <div className="text-6xl mb-4">🔍</div>
-            <h2 className="text-2xl font-bold text-gray-700 dark:text-gray-300 mb-2">
+            <h2 className="text-2xl font-bold text-gray-300 mb-2">
               No restaurants found
             </h2>
-            <p className="text-gray-500 dark:text-gray-400 mb-6">
+            <p className="text-gray-400 mb-6">
               Try adjusting your search or clear the filters
             </p>
             <button
@@ -220,14 +220,14 @@ const Body = () => {
 
       
       {filteredResto.length > 0 && (
-        <div className="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 py-12 mt-16">
+        <div className="bg-gray-800 border-t border-gray-700 py-12 mt-16">
           <div className="max-w-4xl mx-auto px-4">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
               <div>
                 <div className="text-3xl font-bold text-orange-500 mb-2">
                   {filteredResto.length}+
                 </div>
-                <div className="text-gray-600 dark:text-gray-400 font-medium">
+                <div className="text-gray-400 font-medium">
                   Restaurants
                 </div>
               </div>
@@ -251,7 +251,7 @@ const Body = () => {
                 <div className="text-3xl font-bold text-orange-500 mb-2">
                   30min
                 </div>
-                <div className="text-gray-600 dark:text-gray-400 font-medium">
+                <div className="text-gray-400 font-medium">
                   Avg Delivery
                 </div>
               </div>
@@ -259,7 +259,7 @@ const Body = () => {
                 <div className="text-3xl font-bold text-orange-500 mb-2">
                   24/7
                 </div>
-                <div className="text-gray-600 dark:text-gray-400 font-medium">
+                <div className="text-gray-400 font-medium">
                   Service
                 </div>
               </div>
