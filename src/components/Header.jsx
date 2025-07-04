@@ -27,12 +27,12 @@ const Header = () => {
       {/* Logo Section */}
       <div className="logo flex items-center">
         <Link to={"/"}>
-          <img
+{/*           <img
             className="h-12 w-12 lg:h-16 lg:w-16 cursor-pointer rounded-full ring-2 ring-orange-400 hover:ring-orange-500 transition-all duration-300 hover:scale-105"
             src="../src/assets/logo.png"
           
             alt="Yummigo Logo"
-          />
+          /> */}
         </Link>
         <Link to={"/"}>
           <span className="ml-3 text-xl lg:text-2xl font-bold bg-gradient-to-r from-orange-500 to-red-500 bg-clip-text text-transparent sm:block">
