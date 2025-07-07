@@ -73,13 +73,18 @@ npm install
 
 # Start development server
 npm run dev
+---
+```
+
 
 ## 🧑‍💻 Author
 
 **Mohataseem Khan**
 📧 Connect with me: [LinkedIn](https://www.linkedin.com/in/mohataseem-khan/) • [GitHub](https://github.com/Mohataseem89)
 
----
+
+
+
 
 
 
