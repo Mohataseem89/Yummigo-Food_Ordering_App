@@ -12,7 +12,7 @@ Yummigo is a dynamic and modern food ordering web application that lets users br
 
 ###  Home Page
 
-![Home Page](./assets/homepage.png)
+![Home Page](./assets/home.png)
 
 ###  Restaurant Listing
 
