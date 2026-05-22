@@ -1,33 +1,33 @@
-# 🍔 Yummigo - Youthful, Fun, and Expressive Food Ordering App
+#  Yummigo - Youthful, Fun, and Expressive Food Ordering App
 
 Yummigo is a dynamic and modern food ordering web application that lets users browse restaurants, explore menus, order food and groceries, and manage their cart seamlessly. With a stylish UI, responsive design, and robust architecture powered by React and Redux, Yummigo delivers a user-centric ordering experience.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 [Yummigo](https://yummigo-food.vercel.app/)
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ User-friendly and modern UI  
-- ✅ Browse restaurants and food items  
-- ✅ Add to Cart / Remove Items / Clear Cart  
-- ✅ Grocery Store with filters and sorting  
-- ✅ Live Search & Rating Filter  
-- ✅ Responsive layout (Mobile & Desktop)  
-- ✅ State management with **Redux**  
-- ✅ Unit Testing with **Jest + React Testing Library**  
-- ✅ Promoted badge for featured restaurants  
-- ✅ Simulated Login/User Display  
-- ✅ Status Indicator
+-  User-friendly and modern UI  
+-  Browse restaurants and food items  
+-  Add to Cart / Remove Items / Clear Cart  
+-  Grocery Store with filters and sorting  
+-  Live Search & Rating Filter  
+-  Responsive layout (Mobile & Desktop)  
+-  State management with **Redux**  
+-  Unit Testing with **Jest + React Testing Library**  
+-  Promoted badge for featured restaurants  
+-  Simulated Login/User Display  
+-  Status Indicator
 
 ---
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology       | Role                              |
 |------------------|-----------------------------------|               |
@@ -44,7 +44,7 @@ Yummigo is a dynamic and modern food ordering web application that lets users br
 
 ---
 
-## 🧪 Testing
+## Testing
 
 Yummigo has component-level testing using:
 
@@ -59,7 +59,7 @@ Test files:
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 To run the project locally:
 
@@ -77,10 +77,10 @@ npm run dev
 ```
 
 
-## 🧑‍💻 Author
+##  Author
 
 **Mohataseem Khan**
-📧 Connect with me: [LinkedIn](https://www.linkedin.com/in/mohataseem-khan/) • [GitHub](https://github.com/Mohataseem89)
+ Connect with me: [LinkedIn](https://www.linkedin.com/in/mohataseem-khan/) • [GitHub](https://github.com/Mohataseem89)
 
 
 
