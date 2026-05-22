@@ -40,20 +40,19 @@ Yummigo is a dynamic and modern food ordering web application that lets users br
 
 ---
 
+##  Tech Stack
 
-## Tech Stack
-
-| Technology       | Role                              |
-| **Tailwind CSS** | Utility-first Styling             |
-| **React.js**     | UI Library                        |
-| **Redux**        | State Management                  |
-| **Vite**         | Development & Build Tool          |
-| **Swiggy API**   | Realistic Food Delivery Data Mock |
-| **Jest**         | Testing Framework                 |
-| **React Testing Library** | Component Testing        |
+| Technology | Role |
+|------------|------|
+| **React.js** | UI Library |
+| **Tailwind CSS** | Utility-first Styling |
+| **Redux** | State Management |
+| **Vite** | Development & Build Tool |
+| **Swiggy API** | Realistic Food Delivery Data Mock |
+| **Jest** | Testing Framework |
+| **React Testing Library** | Component Testing |
 
 ---
-
 
 ---
 
